@@ -1,0 +1,13 @@
+{
+  "custom": {
+    "SAVE50": {
+      "discount": 50,
+      "minOrder": 299
+    },
+    "AKSHAY": {
+      "discount": 50,
+      "minOrder": 500
+    }
+  },
+  "disabled": []
+}

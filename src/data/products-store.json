@@ -1,0 +1,48 @@
+{
+  "overrides": {
+    "29": {
+      "name": "A4 White Paper 500 Sheets",
+      "price": 180,
+      "mrp": 220,
+      "category": "paper",
+      "badge": "Office Essential",
+      "desc": "70 GSM A4 paper for printer aur handwriting.",
+      "image": "https://img.magnific.com/free-photo/closeup-shot-beautiful-butterfly-with-interesting-textures-orange-petaled-flower_181624-7640.jpg?semt=ais_hybrid&w=740&q=80"
+    }
+  },
+  "customs": [
+    {
+      "id": 1792401238113,
+      "name": "writometer",
+      "category": "extra",
+      "price": 25,
+      "mrp": 30,
+      "stock": 10,
+      "rating": 4.5,
+      "reviews": 0,
+      "badge": "New",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkAXpp5oYMZkCrS2-l0ypd2WJZBQRLOjDkD-V2UxzyLg&s=10",
+      "desc": "The Flair Writo-Meter is a popular high-mileage writing instrument manufactured by Flair Pens",
+      "tags": [
+        "writometer",
+        "extra"
+      ],
+      "features": [
+        "Gupta Store authentic",
+        "Fresh stock",
+        "Ready to ship"
+      ]
+    }
+  ],
+  "stocks": {
+    "29": 30,
+    "1792401238113": 10
+  },
+  "availability": {},
+  "images": {
+    "29": "https://img.magnific.com/free-photo/closeup-shot-beautiful-butterfly-with-interesting-textures-orange-petaled-flower_181624-7640.jpg?semt=ais_hybrid&w=740&q=80",
+    "1792401238113": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkAXpp5oYMZkCrS2-l0ypd2WJZBQRLOjDkD-V2UxzyLg&s=10"
+  },
+  "deleted": [],
+  "updatedAt": "2026-10-19T09:13:58.649Z"
+}

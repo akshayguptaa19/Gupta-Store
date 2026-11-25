@@ -1,0 +1,27 @@
+[
+  {
+    "id": "INQ-1793650938988-yrbe6",
+    "_id": "INQ-1793650938988-yrbe6",
+    "name": "Akshay Gupta",
+    "email": "",
+    "phone": "8107615285",
+    "status": "replied",
+    "message": "I want to purchase something in bulk",
+    "subject": "Bulk Order",
+    "createdAt": "2026-11-02T20:22:18.988Z",
+    "updatedAt": "2026-11-02T20:23:16.227Z",
+    "reply": "Namaste! Aapka query receive ho gaya hai, hum aapko telephone par jald call karenge.",
+    "repliedAt": "2026-11-02T20:23:16.227Z"
+  },
+  {
+    "id": "INQ-1793388980330-56ixj",
+    "_id": "INQ-1793388980330-56ixj",
+    "name": "Rahul Sharma",
+    "email": "",
+    "phone": "9829012345",
+    "status": "unread",
+    "message": "Hume class 10th registers chahiye Bakani me.",
+    "subject": "Classmate Register Query",
+    "createdAt": "2026-10-30T19:36:20.330Z"
+  }
+]

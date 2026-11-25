@@ -1,0 +1,60 @@
+[
+  {
+    "id": "rev_1793641706760_2dwxn",
+    "productId": "5",
+    "productName": "Ink Fountain Pen",
+    "customerName": "Akshay Gupta",
+    "rating": 5,
+    "comment": "superb, I like this Pen.",
+    "date": "2 Nov 2026",
+    "createdAt": "2026-11-02T17:48:27.208Z",
+    "verifiedBuyer": true,
+    "orderId": "GGS-MUH6IV5R"
+  },
+  {
+    "id": "rev_1",
+    "productId": "1",
+    "productName": "Cello Blue Ball Pen",
+    "customerName": "Akshay Gupta",
+    "rating": 5,
+    "comment": "Writing bahut smooth hai aur ink jaldi failti nahi hai. Bakani me same-day deliver ho gaya!",
+    "date": "28 Oct 2026",
+    "createdAt": "2026-10-28T10:00:00.000Z",
+    "verifiedBuyer": true,
+    "orderId": "GGS-MUH6IV5R"
+  },
+  {
+    "id": "rev_2",
+    "productId": "2",
+    "productName": "Reynolds Black Gel Pen",
+    "customerName": "Sunil Sharma",
+    "rating": 5,
+    "comment": "Exam ke liye best pen hai. Grip bahut comfortable hai.",
+    "date": "25 Sept 2026",
+    "createdAt": "2026-09-25T14:30:00.000Z",
+    "verifiedBuyer": true,
+    "orderId": "GGS-MUH1YS3M"
+  },
+  {
+    "id": "rev_3",
+    "productId": "15",
+    "productName": "Drawing Pencil Set 12 Grades",
+    "customerName": "Priya Meena",
+    "rating": 5,
+    "comment": "Sketching aur shading ke liye best shades hain. Authentic Camlin quality!",
+    "date": "20 Sept 2026",
+    "createdAt": "2026-09-20T16:15:00.000Z",
+    "verifiedBuyer": true
+  },
+  {
+    "id": "rev_4",
+    "productId": "18",
+    "productName": "Classmate Notebook Long Size",
+    "customerName": "Deepak Patidar",
+    "rating": 4,
+    "comment": "Paper quality solid hai, pen ki ink peeche chhap nahi chhodti.",
+    "date": "15 Sept 2026",
+    "createdAt": "2026-09-15T11:45:00.000Z",
+    "verifiedBuyer": true
+  }
+]
